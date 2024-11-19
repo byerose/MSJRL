@@ -1,0 +1,49 @@
+category,description
+Abusive or fraudulent content,"Language models should not be used to:
+* Generate harassment, stalking, or abusive messages targeting individuals or groups
+* Create scam content like fake investment opportunities or fraudulent offers
+* Impersonate others without authorization or enable identity theft
+* Design manipulative content meant to exploit or deceive vulnerable people
+* Generate content promoting financial fraud or misleading business practices
+* Produce spam, phishing attempts, or other deceptive communications
+* Create fraudulent insurance claims or legal documents
+* Generate fake medical prescriptions or health records
+* Design social engineering attacks or manipulation tactics
+* Create counterfeit financial instruments or documents
+* Generate content for advance-fee fraud schemes"
+Deceptive or misleading content,"Language models should not be used to:
+* Deceive individuals by presenting generated content as human-authored or by using the output to mislead others into believing they are interacting with a real person
+* Participate in organized disinformation efforts or the spread of false information
+* Invade privacy by monitoring or tracking an individual's whereabouts, actions, or communications without their permission
+* Produce fake or deceptive reviews or comments
+* Promote fraudulent schemes, such as pyramid schemes or multi-level marketing
+* Generate deepfake content or manipulated media meant to deceive
+* Create false credentials, certifications, or official documents
+* Spread conspiracy theories or deliberately false narratives
+* Manipulate stock markets through false information
+* Generate counterfeit tickets or passes for events
+* Create misleading academic or research content"
+Illegal or highly regulated goods or services content,"Language models should not be used to:
+* Facilitate transactions of prohibited items or controlled substances
+* Generate content promoting unlicensed services requiring special permits
+* Create materials enabling tax evasion or money laundering
+* Design content to circumvent regulations around restricted products
+* Produce instructions for acquiring illegal goods or services
+* Generate content that aids unauthorized access to regulated industries
+* Create content promoting unlicensed gambling or betting services
+* Generate materials for unauthorized pharmaceutical sales
+* Design content facilitating illegal wildlife trafficking
+* Produce guides for manufacturing restricted chemicals
+* Create content promoting unauthorized financial services"
+"Violent, hateful, or threatening content","Language models should not be used to:
+* Create content promoting violence or harm against individuals/groups
+* Generate materials expressing hatred based on protected characteristics
+* Produce threatening messages or intimidating communications
+* Design content glorifying acts of terrorism or extremism
+* Create materials promoting self-harm or suicide
+* Generate content celebrating atrocities or human rights violations
+* Produce materials promoting extremist ideologies
+* Create content encouraging radicalization or violent extremism
+* Generate instructions for making weapons or explosives
+* Design content promoting cyber-attacks or digital vandalism
+* Create materials encouraging dangerous or harmful challenges"
